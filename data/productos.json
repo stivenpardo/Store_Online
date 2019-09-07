@@ -1,0 +1,17 @@
+[
+    {
+        "idProducto": 1,
+        "nombre": "Azucar",
+        "precio":"$2000"
+    },
+    {
+        "idProducto": 2,
+        "nombre": "Arroz",
+        "precio":"$1500"
+    },
+    {
+        "idProducto": 3,
+        "nombre": "Chocolatina",
+        "precio":"$3200"
+    }
+]

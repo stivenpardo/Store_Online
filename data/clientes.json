@@ -1,0 +1,52 @@
+[
+    {
+        "name": "John",
+        "email": "jhon98@gmail.com",
+        "idCliente": 1
+    },
+    {
+        "name": "Elizabeth",
+        "email": 40,
+        "idCliente": 2
+    },
+    {
+        "name": "Helder",
+        "email": 10,
+        "idCliente": 3
+    },
+    {
+        "name": "Lugo",
+        "email": 30,
+        "idCliente": 4
+    },
+    {
+        "name": "Cristian",
+        "email": 26,
+        "idCliente": 5
+    },
+    {
+        "name": "Yuli",
+        "email": 18,
+        "idCliente": 6
+    },
+    {
+        "name": "Michael",
+        "email": 18,
+        "idCliente": 7
+    },
+    {
+        "name": "Paola",
+        "email": 36,
+        "idCliente": 8
+    },
+    {
+        "name": "Diego",
+        "email": 50,
+        "idCliente": 9
+    },
+    {
+        "name": "Amparo",
+        "email": 25,
+        "idCliente": 10
+    }
+]

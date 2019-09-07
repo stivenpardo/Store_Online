@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "comprador": 2,
+    "fecha": "04/09/2019",
+    "productos": [
+        {
+            "id": 1,
+            "precio": 20.000
+        },
+        {
+            "id": 2,
+            "precio": 10.000
+        }
+    ]
+}

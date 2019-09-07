@@ -1,0 +1,20 @@
+[
+    {
+        "idProvedor": 1,
+        "nombre": "Michael",
+        "email": "Michael33@gmail.com",
+        "telefono": 8888844
+    },
+    {
+        "idProvedor": 2,
+        "nombre": "Alejandra",
+        "email": "Alejandra44@gmail.com",
+        "telefono": 4444
+    },
+    {
+        "idProvedor": 3,
+        "nombre": "Michael",
+        "email": "Alejandra44@gmail.com",
+        "telefono": 88888
+    }
+]
